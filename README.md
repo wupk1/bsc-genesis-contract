@@ -1,3 +1,4 @@
+
 # bsc-genesis-contracts
 
 This repo hold all the genesis contracts on BNB Smart chain. More details in [doc-site](https://docs.bnbchain.org/docs/learn/system-contract).
@@ -93,3 +94,11 @@ ts-node scripts/bep171-unlock-bot.ts
 
 The library is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0),
 also included in our repository in the [LICENSE](LICENSE) file.
+
+#If you find it practical and useful, please consider donating  to
+USDT (TRC20): TXfzvuY3ib9GJmP7mHNGavViBg2TcJ4dw5
+BTC(BEP20):
+0xb7fcf1d86bdb9a75f2056b440f37589ccfe0fb41
+BNB(BEP20):
+0xb7fcf1d86bdb9a75f2056b440f37589ccfe0fb41
+Thank you for your support! If you want to learn more advanced techniques, leave a comment and sponsor!
